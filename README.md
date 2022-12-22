@@ -1,3 +1,14 @@
+<h1 align="center">Hi 👋, I'm Ayushmaan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🔭 I’m currently working on **Tiktok Clone APP**
+
+- 🌱 I’m currently learning **React Native**
+
+- 💬 Ask me about **React, Node**
+
+- 📫 How to reach me **ashucoc98765@gmail.com**
+
 # 💫 About Me:
 I'm currently working on Tiktok clone app and looking to colaborate on the same.<br>I'm currently learning and exploring React Native.<br>You can ask me about web development MERN stack.
 
